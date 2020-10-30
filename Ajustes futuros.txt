@@ -1,0 +1,4 @@
+->Notificações por push (paciente inserido ou editado)
+->Organizar os dados na tabela com css
+->validação para dados não inseridos
+->pesquisa por nome de pacientes
